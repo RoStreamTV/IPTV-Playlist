@@ -690,6 +690,9 @@ http://84.76.155.113:9981/stream/channelid/1642038159?ticket=FC6830FA0C9FED05E41
 #EXTINF:-1,FilmBox Premium
 http://84.76.155.113:9981/stream/channelid/555709683?ticket=83991068B5345D16DFBBB6C992CEBAE088452C23&profile=pass
 
+#EXTINF:-1,FilmBox Premium
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92773
+
 #EXTINF:-1,Film+
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
