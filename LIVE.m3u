@@ -247,6 +247,9 @@ http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1,Columna TV
 rtmp://columna1.arya.ro/live/columnatv1
 
+#EXTINF:-1,Columna TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100267
+
 #EXTINF:-1,A7 TV
 https://amsix214.streamkit.tv/edge/_definst_/aseventv_1000/chunklist.m3u8?wowzasessionid=632018258&cn=aseventv
 
