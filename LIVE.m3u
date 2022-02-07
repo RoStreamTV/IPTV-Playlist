@@ -660,6 +660,9 @@ https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4
 #EXTINF:-1,CBS News
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 
+#EXTINF:-1,CBS News
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/49975
+
 #EXTINF:-1,CBN News
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 
