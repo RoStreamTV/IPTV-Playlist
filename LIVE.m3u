@@ -561,6 +561,9 @@ https://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 #EXTINF:-1,CNN
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
+#EXTINF:-1,CNN
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/50526
+
 #EXTINF:-1,M1 (Fara Stream)
 http://hls.protv.md/acasatv/acasatv.m3u8
 
