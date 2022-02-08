@@ -1951,6 +1951,9 @@ http://96.30.193.226:81/hls/kanadetv.m3u8
 #EXTINF:-1,Kanade TV
 http://149.28.59.89:8080/hls/kanadetv.m3u8
 
+#EXTINF:-1,Kanade TV
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/49772
+
 #EXTINF:-1,Cartoonito
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13631
 
