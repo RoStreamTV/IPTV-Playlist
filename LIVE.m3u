@@ -1780,6 +1780,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2d1ce
 #EXTINF:-1,Locomotion Channel
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1,Locomotion Channel
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/49828
+
 #EXTINF:-1,TeenNick
 http://my.streamerstv.com:25461/Andy/Andy/172
 
