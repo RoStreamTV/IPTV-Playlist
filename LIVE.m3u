@@ -519,6 +519,9 @@ http://4iptv.xyz:8080/sofia/sofia/54431?checkedby:iptvcat.com
 #EXTINF:-1,Antena 3
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/15004?checkedby:iptvcat.com
 
+#EXTINF:-1,Antena 3
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5280?checkedby:iptvcat.com
+
 #EXTINF:-1,Antena Stars
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/4515
 
