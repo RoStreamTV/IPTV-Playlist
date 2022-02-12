@@ -795,6 +795,9 @@ http://84.76.155.113:9981/stream/channelid/1250888152?ticket=9EE4B4DACFF47D21F97
 #EXTINF:-1,Film Now
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290263
 
+#EXTINF:-1,Film Now
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437311
+
 #EXTINF:-1,Pluto TV - Baywatch
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 
