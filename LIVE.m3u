@@ -927,6 +927,9 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=Nq
 #EXTINF:-1,Look Sport
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
+#EXTINF:-1,Look Sport
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437350
+
 #EXTINF:-1,Sports TV
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51899
 
