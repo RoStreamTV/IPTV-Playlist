@@ -1708,6 +1708,9 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5327?checkedby:iptvcat.com
 #EXTINF:-1,Boomerang
 http://iptvmedia.live:8080/12810/7f788911/23272
 
+#EXTINF:-1,Boomerang
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/23272
+
 #EXTINF:-1,Pluto TV - MINECRAFTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=815&deviceId=5812b821249444e05d09cc4c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 
