@@ -696,6 +696,9 @@ http://iptvmedia.live:8080/12810/7f788911/37826
 #EXTINF:-1,CNN
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37826
 
+#EXTINF:-1,CNN
+http://iptvmedia.live:8080/12810/7f788911/37826?checkedby:iptvcat.com
+
 #EXTINF:-1,M1 (Fara Stream)
 http://hls.protv.md/acasatv/acasatv.m3u8
 
