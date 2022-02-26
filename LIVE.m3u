@@ -1933,6 +1933,9 @@ http://84.76.155.113:9981/stream/channelid/1534998375?ticket=F53A8E1239C86BA9137
 #EXTINF:-1,TeenNick
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/61780
 
+#EXTINF:-1,TeenNick
+http://comag.rip:8000/50031222933615/06133845136026/23718
+
 #EXTINF:-1,Nickelodeon
 http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd?checkedby:iptvcat.com
 
