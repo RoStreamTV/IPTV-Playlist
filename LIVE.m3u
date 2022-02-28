@@ -849,6 +849,9 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1,Sky News
 http://appfactory.group:8080/emma/emma/1167
 
+#EXTINF:-1,Sky News
+http://comag.rip:8000/50031222933615/06133845136026/27730
+
 #EXTINF:-1,Aleph Business HD 1080p
 https://stream-aleph.m.ro/Aleph/Alephbiz.stream/playlist.m3u8
 
