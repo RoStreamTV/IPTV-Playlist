@@ -1534,6 +1534,9 @@ http://84.76.155.113:9981/stream/channelid/1873627027?ticket=E8847DCE4016DAA3D7C
 #EXTINF:-1,NickMusic
 http://ky-tv.cc:80/toyota18/toyota18/222578.ts
 
+#EXTINF:-1,NickMusic
+http://comag.rip:8000/50031222933615/06133845136026/79564
+
 #EXTINF:-1,Cornea TV
 http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8?checkedby:iptvcat.com
 
