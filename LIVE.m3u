@@ -2335,6 +2335,9 @@ http://tv.globesrv.com:80/userdb079d/355036ebb6/11721
 #EXTINF:-1,Das Erste 1
 http://tv.globesrv.com:80/userdb079d/355036ebb6/51820
 
+#EXTINF:-1,Das Erste 1
+http://comag.rip:8000/50031222933615/06133845136026/145288
+
 #EXTINF:-1,Sorozat PLUS (Fara Stream)
 http://hls.protv.md/acasatv/acasatv.m3u8
 
