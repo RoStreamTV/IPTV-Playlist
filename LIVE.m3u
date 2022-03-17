@@ -160,19 +160,19 @@ http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437371
 #EXTINF:-1,PRO TV
 http://84.76.155.113:9981/stream/channelid/1506114275?ticket=E630B567502A3B1ECF0804F74512C0AC5FF3E2FD&profile=pass
 
-#EXTINF:-1,PRO 2
+#EXTINF:-1,Acasa
 http://hls.protv.md/acasatv/acasatv.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,PRO 2
+#EXTINF:-1,Acasa
 http://hls.protv.md/acasatv/acasatv.m3u8
 
-#EXTINF:-1,PRO 2
+#EXTINF:-1,Acasa
 http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55401
 
-#EXTINF:-1,PRO 2
+#EXTINF:-1,Acasa
 http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437289
 
-#EXTINF:-1,PRO 2
+#EXTINF:-1,Acasa
 http://84.76.155.113:9981/stream/channelid/457103253?ticket=0606B3C399895974CD18B0B71ECB4084BC4F2944&profile=pass
 
 #EXTINF:-1,Tele7ABC (Fara Stream)
@@ -466,7 +466,7 @@ http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/232947
 #EXTINF:-1,National TV
 http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437358
 
-#EXTINF:-1,RO Channel
+#EXTINF:-1,IT Channel
 http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
 
 #EXTINF:-1,Misa Senzational TV (Fara Stream)http://hls.protv.md/acasatv/acasatv.m3u8
@@ -1164,10 +1164,10 @@ http://comag.rip:8000/50031222933615/06133845136026/192733
 #EXTINF:-1,Eleven Sport 2
 http://comag.rip:8000/50031222933615/06133845136026/182740
 
-#EXTINF:-1,PRO X
+#EXTINF:-1,PRO Arena
 http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/14123
 
-#EXTINF:-1,PRO X
+#EXTINF:-1,PRO Arena
 http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437369
 
 #EXTINF:-1,Look PLUS
