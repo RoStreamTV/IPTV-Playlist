@@ -981,6 +981,9 @@ http://84.76.155.113:9981/stream/channelid/555709683?ticket=83991068B5345D16DFBB
 #EXTINF:-1,FilmBox Premium
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92773
 
+#EXTINF:-1,FilmBox Premium
+http://comag.rip:8000/50031222933615/06133845136026/192595
+
 #EXTINF:-1,Film+
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
